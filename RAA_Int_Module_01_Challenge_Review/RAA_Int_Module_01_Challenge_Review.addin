@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Module_01_Challenge_Review - Command 1</Text>
+    <Description>Some description for RAA_Int_Module_01_Challenge_Review</Description>
+    <Assembly>RAA_Int_Module_01_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_01_Challenge_Review.Command1</FullClassName>
+    <ClientId>0d2c93cd-6b68-4052-8ade-2eb71f46666e</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAA_Int_Module_01_Challenge_Review - Command 2</Text>
+    <Description>Some description for RAA_Int_Module_01_Challenge_Review</Description>
+    <Assembly>RAA_Int_Module_01_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_01_Challenge_Review.Command2</FullClassName>
+    <ClientId>a29a71e6-43b3-4c0a-8d17-28eb64a69899</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAA_Int_Module_01_Challenge_Review</Name>
+    <Assembly>RAA_Int_Module_01_Challenge_Review.dll</Assembly>
+    <FullClassName>RAA_Int_Module_01_Challenge_Review.App</FullClassName>
+    <ClientId>5f81a775-adc8-41f6-a080-1fc8cccec090</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
